@@ -1,0 +1,17 @@
+.head
+    {
+        align-content: center;
+        color: black;
+        text-align: center;
+        border: 3px solid black;
+        margin: auto;
+        width: 50%;
+        padding: 10px;
+        margin-top: 2em;
+    }
+
+    .listTodo{
+        align-items: center;
+        text-align: center;
+        display: flex;
+    }
